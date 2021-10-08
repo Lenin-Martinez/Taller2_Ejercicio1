@@ -185,7 +185,7 @@ function Reproductor() {
     <Video
         ref={video}
         style={styles.video}
-        source={require('./src/vid/Nadie.mp4')}
+        source={require('./src/img/Nadie.mp4')}
         useNativeControls
         resizeMode="contain"
         isLooping
